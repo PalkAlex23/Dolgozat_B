@@ -1,0 +1,2 @@
+II/F:
+	A 3-al oszhatóak száma: 2
